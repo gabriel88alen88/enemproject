@@ -30,6 +30,8 @@ Após a carga na Staging Area, criei a modelagem de dados dimensional no modelo 
 
 Foi criado o banco DW_ENEM no RDS e o script para criação das tabelas encontra-se aqui [SQL DW](https://github.com/gabriel88alen88/enemproject/blob/master/CreateTableDw.sql)
 
+[Dicionario de dados do DW](DW_DICIONARIO.csv)
+
 Foi criada uma procedure SQL para realizar todo ETL.
 Utilizei como estratégia de carga para este projeto o truncate das tabelas sempre que for executado pois tratam-se de dados estaticos que dificilmente terão alguma alteração. 
 Coloquei um controle de tempo para carga na tabela STAGING_ENEM.DBO.CONTROLE_ETL para controlar o tempo de execução do ETL.

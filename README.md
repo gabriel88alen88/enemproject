@@ -43,7 +43,7 @@ A procedure foi executada via comando [Python](phytonetl.py)
 
 Foi criado o dashboard com as análises propostas do desafio e alguns itens a mais. Caso necessário, podemos agendar uma apresentação do dashboard para explicação de todos os pontos e análises feitas por mim para desenvolver este storytelling. 
 
-**_Observação importante :  Na página "Análise por estado, existe o recurso Drill-trough para fazer um drill de estados para municípios. Para usar o drill-trought basta clicar em cima do estado (nome ou mapa) com o botão direito e selecionar Drill-trough -> Análise Municípios _**  
+**_Observação importante :  Na página "Análise por estado, existe o recurso Drill-trough para fazer um drill de estados para municípios. Para usar o drill-trough basta clicar em cima do estado (nome ou mapa) com o botão direito e selecionar Drill-trough -> Análise Municípios _**  
 
 ![Drill-Trough](drill.png)
 
